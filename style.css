@@ -726,6 +726,10 @@ ul {
     height: auto;
     position: static;
   }
+  .contact-bottom h1 {
+    font-size: 40px;
+
+  }
 }
 
 @media (max-width: 600px) {
